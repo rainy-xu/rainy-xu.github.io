@@ -1,14 +1,11 @@
 ---
-layout: post
-title: Releasing Not Pure Poole v0.1.0
-author: Songzi Vong
+layout: About
+title: About me
 tags:
 - jekyll theme
 - jekyll
-date: 2020-10-01 13:56 +0800
+date: 2024.3.19
 ---
-The Jekyll theme **Not Pure Poole** v0.1.0 was released!
-
-Not Pure Poole is a simple, beautiful, and powerful Jekyll theme for blogs. It is built on [Poole](https://github.com/poole/poole) and [Pure](https://purecss.io/).
-
-For more information about this theme, you can read the [README](https://github.com/vszhub/not-pure-poole/blob/master/README.md) file.
+I am a first-year PhD student at IIE & UCAS, advised by Prof. Xiao-Yu Zhang, Prof. Ran He, and Prof. Jian Liang. My research lies in Machine Learning and Computer Vision, specifically in the following topics:
+Machine Unlearning
+Deepfake Detction
