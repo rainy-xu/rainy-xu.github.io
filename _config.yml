@@ -28,9 +28,6 @@ exclude:
   - not-pure-poole.gemspec
 
 # Optimize Jekyl SEO Tag
-twitter:
-  username: vszhub
-  card: summary
 logo: logo.png
 social:
   name: Yuting Xu
@@ -52,7 +49,3 @@ sass:
 # disqus: xxxxxx
 
 # Specify the author for blog posts
-author:
-  name: Rainy
-  url: https://github.com/rainy-xu
-  email: rainyxu825@gmail.com
