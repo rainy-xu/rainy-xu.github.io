@@ -1,6 +1,6 @@
 ---
 layout: archive-taxonomies
 permalink: /tags/
-title: Tags
+title: About Me
 type: tags
 ---
