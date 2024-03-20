@@ -1,6 +1,7 @@
 ---
 layout: About
 title: About me
+toc:
 tags:
 - jekyll theme
 - jekyll
